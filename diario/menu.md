@@ -1,1 +1,1 @@
-[Página 1](./diario/pagina1.md) 
+[Página 1](./pagina1.md) 
